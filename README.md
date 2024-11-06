@@ -1,2 +1,9 @@
 # RecipeMakerApp
-"# RecipeMaker" 
+"# Leader: Alexces S. Magsacay"
+
+### Team Members:
+- Adrian Gabo
+- Charlene Fernandez
+- Hazel L. Macahilos
+- Shaine Derita
+
